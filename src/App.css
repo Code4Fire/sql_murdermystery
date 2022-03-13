@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.img-header{
+  display: flex;
+  justify-content:space-between ;
+  align-items: center;
+  background-color: rgba(7, 84, 114, 0.897);
+  height: 50px;
+  padding-left: 1%;
+  font-size: 40px;
+  color: orange;
+
+}
+.nav-link{
+  display: flex;
+  justify-content:space-between ;
+  align-items: right;
+  height: 50px;
+  padding: 10%;
+ 
+ 
+
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
