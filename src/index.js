@@ -8,10 +8,13 @@ import './App.css';
 
 
 
-ReactDOM.render(
-  <BrowserRouter>
-    <App />
-    </BrowserRouter>,
+
+  ReactDOM.render(
+    <React.StrictMode>
+      <BrowserRouter>
+      <App />
+      </BrowserRouter>
+    </React.StrictMode>,
+    document.getElementById('root')
+  );
  
-  document.getElementById("root")
-);
