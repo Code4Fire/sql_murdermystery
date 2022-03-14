@@ -22,7 +22,7 @@ function About(){
                     
                     <img src = "insert image url"/>
                     <h3>Webster Bian</h3>
-                    <p>Tiffany's biggest loves in life are guns and coding</p>
+                    <p>Webster's biggest loves in life are guns and coding</p>
             </main>
         </div>
     )

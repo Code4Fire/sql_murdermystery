@@ -14,7 +14,7 @@ function Navbar(setUser) {
 
     return (
         <header className="img-header">
-            <h1 className="header-text">Killer Superheroes</h1>
+            <h1 className="header-text">Superhero Killers</h1>
             
             <div className="nav-link">
                 <div>
